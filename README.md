@@ -1,4 +1,4 @@
-# phpProject
+# phpProject： Student Achievement Management System
 
 # Login page:
 Manager account:
